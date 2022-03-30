@@ -1,6 +1,6 @@
-#Transferable Tree-based Ensemble Model for Non-Intrusive Load Monitoring
+# Transferable Tree-based Ensemble Model for Non-Intrusive Load Monitoring
 
-This code implements  a collaborative model-based transfer learning framework for LightGBM
+This code implements a model-based LightGBM transfer learning framework for NILM 
 # How to use the code and example
 
 Directory tree:
